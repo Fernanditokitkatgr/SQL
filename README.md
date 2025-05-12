@@ -1,2 +1,2 @@
 # SQL
-SQL Project Analysis about: Identification of entry points
+SQL Project Analysis about: Identification of entry points and Customer Value Analysis (CLV)
